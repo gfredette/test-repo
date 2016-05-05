@@ -1,1 +1,8 @@
-Welcome to Bellingham
+## Welcome to my home town
+
+Bellingham, MA
+
+Nice place.
+
+
+
